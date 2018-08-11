@@ -24,7 +24,7 @@ get_header(); ?>
 					<p><?php _e( 'It looks like nothing was found at this location. Maybe try a search?', 'twentyseventeen' ); ?></p>
 
 					<?php get_search_form(); ?>
-                <p>Harish tewari ki bivi anju h jj</p>
+                <p>Harish tewari</p>
 				</div><!-- .page-content -->
 			</section><!-- .error-404 -->
 		</main><!-- #main -->
